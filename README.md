@@ -1,2 +1,8 @@
 # Qt-EmployeeMonitoring
-This app allows you to get screenshot from worker's computer, start chat with a worker and even set tasks!
+This app allows the employer to:
+* Get Screenshot from worker's computer at any time
+* Start chat with a worker
+* Make a task list a worker
+This app allows the worker to:
+* See tasks given by the employer
+* Start chat with the employer
