@@ -11,7 +11,7 @@ This app allows the worker to:
 ## Tech performance
 By starting "Coffee_boss" the employer starts server to which workers may connect. If the server isn't started, worker's app waits and autoconnects when the server is available
 
-## Starting the Coffee_boss (employer side)
+## Starting the Coffee_boss app (employer side)
 After opening app you see list of workers who have connected
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/29f30a3e-67b6-49e6-b79c-56027b4802b6)
@@ -29,3 +29,12 @@ Or start chat with worker
 It is also possible to set tasks
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/4ce1bc51-9639-4df4-9338-684feb87c984)
+
+
+## Starting the Coffee app (worker side)
+Enter your username
+
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/a6bf6281-d9df-4427-af94-60ff3933222b)
+
+Chat with boss by pressing the "Chat with Boss button"
+
