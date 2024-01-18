@@ -38,3 +38,4 @@ Enter your username
 
 Chat with boss by pressing the "Chat with Boss button"
 
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/c781bc61-5ec9-4f1a-82b4-491f3dd54502)
