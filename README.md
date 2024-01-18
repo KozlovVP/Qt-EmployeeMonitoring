@@ -26,4 +26,5 @@ Or start chat with worker
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/ee3ce48b-3111-405d-9243-67536803a114)
 
 It is also possible to set tasks
+
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/4ce1bc51-9639-4df4-9338-684feb87c984)
