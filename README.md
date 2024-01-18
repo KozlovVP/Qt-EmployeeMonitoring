@@ -11,7 +11,7 @@ This app allows the worker to:
 ## Tech side
 By starting "Coffee_boss" the employer starts server to which workers may connect. If the server isn't started, worker's app waits and autoconnects when the server is available
 
-## Starting the Coffee_boss
+## Starting the Coffee_boss (employer side)_
 After opening app you see list of workers who have connected
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/29f30a3e-67b6-49e6-b79c-56027b4802b6)
