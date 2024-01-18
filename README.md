@@ -44,7 +44,8 @@ Chat with boss by pressing the "Chat with Boss button"
 1) Make sure you have Qt Creator and Git CMD installed
 2) Create a "git" folder on your Dekstop
 
-![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/f5e31d97-9206-44df-9aed-115914a90b2e)
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/45e6e0d7-e09b-4fd8-9c74-55246530dcb9)
+
 4) Open Git CMD and type "git clone https://github.com/KozlovVP/Qt-EmployeeMonitoring"
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/61e41d25-c9c9-460e-aa88-9d05e867983f)
