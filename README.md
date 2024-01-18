@@ -50,7 +50,7 @@ Chat with boss by pressing the "Chat with Boss button"
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/61e41d25-c9c9-460e-aa88-9d05e867983f)
 
-4) Copy PATH to the "git" folder on your Dekstop and type "cd <PATH>"
+4) Copy PATH to the "git" folder on your Dekstop and type "cd \<PATH\>"
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/c53cb437-f68d-4a53-968c-b38eee295eaa)
 
