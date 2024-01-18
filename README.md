@@ -7,3 +7,4 @@ This app allows the employer to:
 This app allows the worker to:
 * See tasks given by the employer
 * Start chat with the employer
+
