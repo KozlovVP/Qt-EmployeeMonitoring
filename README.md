@@ -36,7 +36,7 @@ Enter your username
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/a6bf6281-d9df-4427-af94-60ff3933222b)
 
-And press "connect button"
+And press "connect" button
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/ae0de0e6-7cf5-44fa-a111-ebf979a9b978)
 
