@@ -9,7 +9,7 @@ This app allows the worker to:
 * Start chat with the employer
 
 ## Tech performance
-By starting "Coffee_boss" the employer starts server to which workers may connect. If the server isn't started, worker's app waits and autoconnects when the server is available
+By starting "Coffee_boss" the employer starts server to which workers may connect via "Coffee" app. If the server isn't started, worker's app waits and autoconnects when the server is available
 
 ## Starting the Coffee_boss app (employer side)
 After opening app you will see list of workers who have connected
