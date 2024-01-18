@@ -43,21 +43,27 @@ Chat with boss by pressing the "Chat with Boss button"
 ## How to install my app
 1) Make sure you have Qt Creator and Git CMD installed
 2) Create a "git" folder on your Dekstop
-![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/f5e31d97-9206-44df-9aed-115914a90b2e)
-3) Open Git CMD and type "git clone https://github.com/KozlovVP/Qt-EmployeeMonitoring"
-![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/61e41d25-c9c9-460e-aa88-9d05e867983f)
-4) Copy PATH to the "git" folder on your Dekstop and type "cd <PATH>"
-![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/c53cb437-f68d-4a53-968c-b38eee295eaa)
-5) Type "git clone https://github.com/KozlovVP/Qt-EmployeeMonitoring" one more time
-![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/791a10e3-7c2d-45fe-a63b-8081f7868549)
-6) Congrats! Now you have all src files in your "git" folder
 
-7) Open Qt Creator and press "Open project"->C:\Users\vsvld\Desktop\git\Qt-EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring.pro
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/f5e31d97-9206-44df-9aed-115914a90b2e)
+4) Open Git CMD and type "git clone https://github.com/KozlovVP/Qt-EmployeeMonitoring"
+
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/61e41d25-c9c9-460e-aa88-9d05e867983f)
+5) Copy PATH to the "git" folder on your Dekstop and type "cd <PATH>"
+
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/c53cb437-f68d-4a53-968c-b38eee295eaa)
+6) Type "git clone https://github.com/KozlovVP/Qt-EmployeeMonitoring" one more time
+
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/791a10e3-7c2d-45fe-a63b-8081f7868549)
+7) Congrats! Now you have all src files in your "git" folder
+
+8) Open Qt Creator and press "Open project"->C:\Users\vsvld\Desktop\git\Qt-EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring.pro
 You will see the following (src file for Coffee_boss [employer side])
+
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/79183998-3185-4640-8fd7-acdd0797c405)
 
-8) Open Qt Creator and press "Open project"->C:\Users\vsvld\Desktop\git\Qt-EmployeeMonitoring\Client\Client.pro
+9) Open Qt Creator and press "Open project"->C:\Users\vsvld\Desktop\git\Qt-EmployeeMonitoring\Client\Client.pro
 You will see the following (src file for Coffee [worker side])
+
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/1b12ee4c-9053-4d1b-b2cc-be8aeee18f79)
 
 
