@@ -49,12 +49,15 @@ Chat with boss by pressing the "Chat with Boss button"
 4) Open Git CMD and type "git clone https://github.com/KozlovVP/Qt-EmployeeMonitoring"
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/61e41d25-c9c9-460e-aa88-9d05e867983f)
+
 5) Copy PATH to the "git" folder on your Dekstop and type "cd <PATH>"
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/c53cb437-f68d-4a53-968c-b38eee295eaa)
+
 6) Type "git clone https://github.com/KozlovVP/Qt-EmployeeMonitoring" one more time
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/791a10e3-7c2d-45fe-a63b-8081f7868549)
+
 7) Congrats! Now you have all src files in your "git" folder
 
 8) Open Qt Creator and press "Open project"->C:\Users\vsvld\Desktop\git\Qt-EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring.pro
