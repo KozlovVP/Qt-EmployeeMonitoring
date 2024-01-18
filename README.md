@@ -20,3 +20,9 @@ After choosing worker and pressing the button you will see menu
 
 You may press "Get screenshot button" (Oh no, Mark is watching youtube!😡)
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/dca0ac73-580a-492f-a581-b2127386d26f)
+
+Or start chat with worker
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/ee3ce48b-3111-405d-9243-67536803a114)
+
+It is also possible to set tasks
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/4ce1bc51-9639-4df4-9338-684feb87c984)
