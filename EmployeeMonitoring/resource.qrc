@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>stylesheets/darkstyle.qss</file>
+        <file>img/coffee_app.png</file>
+        <file>img/coffee_app.ico</file>
+    </qresource>
+</RCC>
