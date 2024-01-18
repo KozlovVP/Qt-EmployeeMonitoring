@@ -36,6 +36,9 @@ Enter your username
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/a6bf6281-d9df-4427-af94-60ff3933222b)
 
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/ae0de0e6-7cf5-44fa-a111-ebf979a9b978)
+
+
 Chat with boss by pressing the "Chat with Boss button"
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/c781bc61-5ec9-4f1a-82b4-491f3dd54502)
