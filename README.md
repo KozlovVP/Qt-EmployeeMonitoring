@@ -1,10 +1,10 @@
-# Qt-EmployeeMonitoring
-This app allows the employer to:
+# Qt-EmployeeMonitoring 
+Coffee_boss app allows the employer to:
 * Get screenshot from worker's computer at any time
 * Start chat with a worker
 * Make a task list for each worker
-  
-This app allows the worker to:
+
+Coffee app allows the worker to:
 * See tasks given by the employer
 * Start chat with the employer
 
