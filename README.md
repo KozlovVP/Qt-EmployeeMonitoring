@@ -13,6 +13,7 @@ By starting "Coffee_boss" the employer starts server to which workers may connec
 
 ## Starting the Coffee_boss
 After opening app you see list of workers who have connected
+
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/29f30a3e-67b6-49e6-b79c-56027b4802b6)
 
 After choosing worker and pressing the button you will see menu
