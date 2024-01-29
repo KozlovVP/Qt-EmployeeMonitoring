@@ -25,11 +25,11 @@
 Вы можете кликнуть на "Get screenshot button" (Mark сейчас использует Google)
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/c9ea9480-9e66-46a0-a95c-ae0760420769)
 
-Или начать чат с работником
+Или начать чат с работником, кликнув на "Start Chat"
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/df56da1f-0829-4f12-90c4-59f0735ea4d9)
 
-Также можно давать задания работнику
+Также можно давать задания работнику, нажав на "Change Tasks"
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/e1769b3f-1913-4ce8-babb-a5ad76f3d21f)
 
