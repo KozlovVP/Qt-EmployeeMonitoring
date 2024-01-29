@@ -70,7 +70,7 @@ You will see the following (src file for Coffee_boss [employer side])
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/79183998-3185-4640-8fd7-acdd0797c405)
 
-8) Open Qt Creator and press "Open project"->C:\Users\..\Desktop\git\Qt-EmployeeMonitoring\Client\Client.pro
+8) Open Qt Creator and press "Open project"->C:\Users\\..\Desktop\git\Qt-EmployeeMonitoring\Client\Client.pro
 You will see the following (src file for Coffee [worker side])
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/1b12ee4c-9053-4d1b-b2cc-be8aeee18f79)
