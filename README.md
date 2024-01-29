@@ -75,4 +75,4 @@ You will see the following (src file for Coffee [worker side])
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/1b12ee4c-9053-4d1b-b2cc-be8aeee18f79)
 
-
+Thanks for installation!
