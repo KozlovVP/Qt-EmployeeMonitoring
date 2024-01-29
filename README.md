@@ -14,24 +14,25 @@ Coffee app позволяет работнику:
 Если сервер еще не запущен, то приложение работника Coffee ждет возможности подключиться и автоматически
 подключается, когда появляется возможность.
 
-## Starting the Coffee_boss app (employer side)
-After opening app you will see list of workers who have connected
+## Запуск приложения Coffee_boss (приложение работодателя)
+После запуска приложения вы увидите список работников, которые подключились
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/29f30a3e-67b6-49e6-b79c-56027b4802b6)
 
-After choosing worker and pressing the "->" button you will see menu
+После выбора номера работника и нажатия на "->" вы увидите меню
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/6ebc9755-e7f3-472d-8370-38266cbf88cf)
 
-You may press "Get screenshot button" (Mark is using Google right now)
+Вы можете кликнуть на "Get screenshot button" (Mark сейчас использует Google)
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/c9ea9480-9e66-46a0-a95c-ae0760420769)
 
-Or start chat with worker
+Или начать чат с работником
 
-![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/ee3ce48b-3111-405d-9243-67536803a114)
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/df56da1f-0829-4f12-90c4-59f0735ea4d9)
 
-It is also possible to set tasks
+Также можно давать задания работнику
 
-![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/4ce1bc51-9639-4df4-9338-684feb87c984)
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/e1769b3f-1913-4ce8-babb-a5ad76f3d21f)
+
 
 
 ## Starting the Coffee app (worker side)
@@ -41,12 +42,12 @@ Enter your username
 
 And press "connect" button
 
-![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/ae0de0e6-7cf5-44fa-a111-ebf979a9b978)
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/44ac51f9-52c2-4b37-80e1-55f2b834ed9e)
 
+Вы можете начать чат с работодателем, нажав на "Chat with Boss" 
 
-Chat with boss by pressing the "Chat with Boss" button
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/faea0153-6652-444a-a375-d70b1103416d)
 
-![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/c781bc61-5ec9-4f1a-82b4-491f3dd54502)
 
 ## How to install my app
 1) Make sure you have Qt Creator and Git CMD installed
