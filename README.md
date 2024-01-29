@@ -22,7 +22,7 @@
 После выбора номера работника и нажатия на "->" вы увидите меню
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/6ebc9755-e7f3-472d-8370-38266cbf88cf)
 
-Вы можете кликнуть на "Get screenshot button" (Mark сейчас использует Google)
+Вы можете кликнуть на кнопку "Get Screenshot" (Mark сейчас использует Google)
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/c9ea9480-9e66-46a0-a95c-ae0760420769)
 
 Или начать чат с работником, кликнув на "Start Chat"
