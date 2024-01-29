@@ -19,8 +19,9 @@ After opening app you will see list of workers who have connected
 After choosing worker and pressing the "->" button you will see menu
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/6ebc9755-e7f3-472d-8370-38266cbf88cf)
 
-You may press "Get screenshot button" (Oh no, Mark is watching youtube!😡)
-![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/dca0ac73-580a-492f-a581-b2127386d26f)
+You may press "Get screenshot button" (Mark is using Google right now)
+![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/41e50101-3570-4e17-9f63-b8936f0bf754)
+
 
 Or start chat with worker
 
