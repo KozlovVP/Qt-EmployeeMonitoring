@@ -14,7 +14,7 @@
 Если сервер еще не запущен, то приложение работника Coffee ждет возможности подключиться и автоматически
 подключается, когда появляется возможность.
 
-## Запуск приложения Coffee_boss (приложение работодателя)
+## Запуск приложения Coffee_boss (приложение для работодателя)
 После запуска приложения вы увидите список работников, которые уже подключились
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/29f30a3e-67b6-49e6-b79c-56027b4802b6)
@@ -35,7 +35,7 @@
 
 
 
-## Starting the Coffee app (worker side)
+## Starting the Coffee app (приложение для работника)
 Введите ваше имя и нажмите на "connect"
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/a6bf6281-d9df-4427-af94-60ff3933222b)
