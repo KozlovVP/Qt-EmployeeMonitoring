@@ -1,3 +1,5 @@
+eng_version of REAMDE.md is located above
+
 # Qt-EmployeeMonitoring 
 Приложение Coffee_boss позволяет работодателю:
 * Получить скриншот с компьютера работника в любое время
