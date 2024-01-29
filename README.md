@@ -36,11 +36,11 @@
 
 
 ## Starting the Coffee app (worker side)
-Enter your username
+Введите ваше имя и нажмите на "connect"
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/a6bf6281-d9df-4427-af94-60ff3933222b)
 
-And press "connect" button
+Перед вами откроется окно с заданиями
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/44ac51f9-52c2-4b37-80e1-55f2b834ed9e)
 
