@@ -118,7 +118,7 @@ void MainWindow::onReadyRead()
         int h = chosen_->ui->label->height();
 
         chosen_->ui->label->setVisible(true);
-        chosen_->ui->label->setPixmap(pixmap.scaled(w, h, Qt::KeepAspectRatio));
+        chosen_->ui->label->setPixmap(pixmap.scaled(w, h, Qt::KeepAspectRatio, Qt::SmoothTransformation));
         qDebug() << "got screenshot from " << pClientSocket;
     }
     else if (command == "7") {
