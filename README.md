@@ -1,15 +1,17 @@
 # Qt-EmployeeMonitoring 
-Coffee_boss app allows the employer to:
-* Get screenshot from worker's computer at any time
-* Start chat with a worker
-* Make a task list for each worker
+Coffee_boss позволяет работодателю:
+* Получить скриншот с компьютера работника в любое время
+* Открыть чат с работником
+* Написать список заданий и отправить его работнику
 
-Coffee app allows the worker to:
-* See tasks given by the employer
-* Start chat with the employer
+Coffee app позволяет работнику:
+* Видеть задания, отправленные работодателем
+* Открыть чат с работодателем
 
-## Tech performance
-By starting "Coffee_boss" the employer starts server to which workers may connect via "Coffee" app. If the server isn't started, worker's app waits and autoconnects when the server is available
+## Техническое исполнение
+Приложение работодателя Coffee_boss представляет собой TCP-сервер. При запуске приложения работодатель запускает сервер, к которому могут 
+подключиться работники. Если сервер еще не запущен, то приложение работника Coffee ждет возможности подключиться и автоматически
+подключается, когда есть возможность.
 
 ## Starting the Coffee_boss app (employer side)
 After opening app you will see list of workers who have connected
