@@ -65,7 +65,7 @@ Chat with boss by pressing the "Chat with Boss" button
 
 6) Congrats! Now you have all src files in your "git" folder
 
-7) Open Qt Creator and press "Open project"->C:\Users\\..\Desktop\git\Qt-EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring.pro
+7) Open Qt Creator and go to "Open project"->C:\Users\\..\Desktop\git\Qt-EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring.pro
 You will see the following (src file for Coffee_boss [employer side])
 
 ![image](https://github.com/KozlovVP/Qt-EmployeeMonitoring/assets/114473389/79183998-3185-4640-8fd7-acdd0797c405)
